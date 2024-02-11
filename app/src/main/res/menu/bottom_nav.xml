@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Timetable"
+        android:id="@+id/Timetable"
+        android:icon="@drawable/calendar_symbol_svgrepo_com"/>
+    <item android:title="Todos"
+        android:id="@+id/Todos"
+        android:icon="@drawable/list_check_svgrepo_com"/>
+    <item android:title="Exams"
+        android:id="@+id/Exams"
+        android:icon="@drawable/exam_a_plus_svgrepo_com"/>
+</menu>
