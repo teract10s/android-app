@@ -28,6 +28,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+
+
         val listView = findViewById<ListView>(R.id.list_view)
         val userData: EditText = findViewById(R.id.user_data)
         val dateData: EditText = findViewById(R.id.date_data)
